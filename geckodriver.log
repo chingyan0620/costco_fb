@@ -8747,3 +8747,710 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:53029/devtools/browser/88a68d15-abed-4de1-a897-4bec6e064583
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1680970460489	Marionette	INFO	Stopped listening on port 53032
+1681024846639	geckodriver	INFO	Listening on 127.0.0.1:64456
+1681024847144	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64457" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofile8ZToQ1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681024847814	Marionette	INFO	Marionette enabled
+1681024847905	Marionette	INFO	Listening on port 64462
+Read port: 64462
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-04-09 15:20:48.038 plugin-container[20142:537886] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:20:48.038 plugin-container[20142:537886] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:20:48.043 plugin-container[20142:537886] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:20:48.043 plugin-container[20142:537886] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:20:48.044 plugin-container[20142:537889] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:20:48.044 plugin-container[20142:537889] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:64457
+1681024848425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofile8ZToQ1/search.json.mozlz4", (void 0)))
+2023-04-09 07:20:49.679 plugin-container[20147:538093] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:20:49.679 plugin-container[20147:538093] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:20:49.684 plugin-container[20147:538093] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:20:49.684 plugin-container[20147:538093] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:20:49.685 plugin-container[20147:538092] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:20:49.685 plugin-container[20147:538092] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:64457/devtools/browser/75c45e4b-248c-478f-95ac-bfd0f5ba8793
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681024970571	Marionette	INFO	Stopped listening on port 64462
+1681025092559	geckodriver	INFO	Listening on 127.0.0.1:64793
+1681025092569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64794" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofilebLvHFg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681025093005	Marionette	INFO	Marionette enabled
+2023-04-09 15:24:53.118 plugin-container[20345:541058] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:24:53.118 plugin-container[20345:541058] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:24:53.122 plugin-container[20345:541058] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:24:53.122 plugin-container[20345:541058] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:24:53.123 plugin-container[20345:541062] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:24:53.123 plugin-container[20345:541062] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1681025093140	Marionette	INFO	Listening on port 64797
+Read port: 64797
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:64794
+1681025093451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofilebLvHFg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64794/devtools/browser/3473130f-d97f-49ac-9c20-66efbba15d0a
+2023-04-09 07:24:54.717 plugin-container[20350:541204] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:24:54.718 plugin-container[20350:541204] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:24:54.734 plugin-container[20350:541204] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:24:54.734 plugin-container[20350:541204] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:24:54.734 plugin-container[20350:541212] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:24:54.734 plugin-container[20350:541212] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1681025153108	geckodriver	INFO	Listening on 127.0.0.1:65405
+1681025153118	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "65406" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileF9rsRO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681025153469	Marionette	INFO	Marionette enabled
+1681025153564	Marionette	INFO	Listening on port 65409
+2023-04-09 15:25:53.576 plugin-container[20434:542263] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:25:53.577 plugin-container[20434:542263] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:25:53.581 plugin-container[20434:542263] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:25:53.581 plugin-container[20434:542263] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:25:53.581 plugin-container[20434:542268] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:25:53.581 plugin-container[20434:542268] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 65409
+WebDriver BiDi listening on ws://127.0.0.1:65406
+1681025153841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileF9rsRO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65406/devtools/browser/5ad5c488-a2ef-4211-8216-bfdc2f4a6cf4
+2023-04-09 07:25:54.897 plugin-container[20439:542413] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:25:54.897 plugin-container[20439:542413] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:25:54.901 plugin-container[20439:542413] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:25:54.901 plugin-container[20439:542413] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:25:54.901 plugin-container[20439:542417] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:25:54.901 plugin-container[20439:542417] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681025240117	Marionette	INFO	Stopped listening on port 65409
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iFGK4/yo/l/zh_TW/EaCMH_UiCVQ.js?_nc_x=Ij3Wp8lg5Kz, line 660: TypeError: can't access dead object
+1681025926864	geckodriver	INFO	Listening on 127.0.0.1:52193
+1681025927376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "52194" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofile7Tx5zG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681025927887	Marionette	INFO	Marionette enabled
+1681025927961	Marionette	INFO	Listening on port 52204
+Read port: 52204
+2023-04-09 15:38:48.002 plugin-container[20817:552066] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:38:48.002 plugin-container[20817:552066] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-04-09 15:38:48.088 plugin-container[20817:552066] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:38:48.088 plugin-container[20817:552066] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:38:48.088 plugin-container[20817:552069] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:38:48.088 plugin-container[20817:552069] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:52194
+1681025928260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofile7Tx5zG/search.json.mozlz4", (void 0)))
+2023-04-09 07:38:49.576 plugin-container[20821:552226] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:38:49.577 plugin-container[20821:552226] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:52194/devtools/browser/9a246ea3-b817-4d79-bca8-45363557ff3e
+2023-04-09 07:38:49.580 plugin-container[20821:552226] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:38:49.580 plugin-container[20821:552226] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:38:49.580 plugin-container[20821:552231] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:38:49.580 plugin-container[20821:552231] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681026005253	Marionette	INFO	Stopped listening on port 52204
+1681026286514	geckodriver	INFO	Listening on 127.0.0.1:53868
+1681026287026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53869" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofile9YasRU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681026287444	Marionette	INFO	Marionette enabled
+2023-04-09 15:44:47.549 plugin-container[21025:556669] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:44:47.549 plugin-container[21025:556669] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:44:47.553 plugin-container[21025:556669] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:44:47.553 plugin-container[21025:556669] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:44:47.554 plugin-container[21025:556667] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:44:47.554 plugin-container[21025:556667] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1681026287568	Marionette	INFO	Listening on port 53874
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53874
+WebDriver BiDi listening on ws://127.0.0.1:53869
+1681026287857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofile9YasRU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53869/devtools/browser/0ef11b4c-4707-4fb6-874a-e92a8ff1c4d1
+2023-04-09 07:44:48.928 plugin-container[21028:556812] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:44:48.928 plugin-container[21028:556812] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:44:48.932 plugin-container[21028:556812] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:44:48.932 plugin-container[21028:556812] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:44:48.933 plugin-container[21028:556815] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:44:48.933 plugin-container[21028:556815] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681026401790	geckodriver	INFO	Listening on 127.0.0.1:54253
+1681026402338	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54254" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileZeCs9f"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681026402779	Marionette	INFO	Marionette enabled
+2023-04-09 15:46:42.888 plugin-container[21128:558376] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:46:42.888 plugin-container[21128:558376] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:46:42.892 plugin-container[21128:558376] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:46:42.892 plugin-container[21128:558376] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:46:42.893 plugin-container[21128:558381] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:46:42.893 plugin-container[21128:558381] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1681026402907	Marionette	INFO	Listening on port 54259
+Read port: 54259
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:54254
+1681026403192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileZeCs9f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54254/devtools/browser/340c611b-94f6-4f6c-8606-cbc04c7c1449
+2023-04-09 07:46:44.305 plugin-container[21131:558531] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:46:44.305 plugin-container[21131:558531] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:46:44.310 plugin-container[21131:558531] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:46:44.310 plugin-container[21131:558531] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:46:44.311 plugin-container[21131:558538] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:46:44.311 plugin-container[21131:558538] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1681026431566	geckodriver	INFO	Listening on 127.0.0.1:54314
+1681026431580	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54315" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileosCKRY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681026432007	Marionette	INFO	Marionette enabled
+2023-04-09 15:47:12.116 plugin-container[21162:559054] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:47:12.116 plugin-container[21162:559054] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:47:12.120 plugin-container[21162:559054] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:47:12.121 plugin-container[21162:559054] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:47:12.121 plugin-container[21162:559056] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:47:12.121 plugin-container[21162:559056] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1681026432135	Marionette	INFO	Listening on port 54318
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 54318
+WebDriver BiDi listening on ws://127.0.0.1:54315
+1681026432416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileosCKRY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54315/devtools/browser/f2e51564-337f-454d-a9ac-a0e7f4624d1a
+2023-04-09 07:47:13.492 plugin-container[21168:559225] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:47:13.492 plugin-container[21168:559225] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:47:13.495 plugin-container[21168:559225] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:47:13.495 plugin-container[21168:559225] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:47:13.495 plugin-container[21168:559230] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:47:13.495 plugin-container[21168:559230] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1681026747894	geckodriver	INFO	Listening on 127.0.0.1:54735
+1681026747905	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54736" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofile1Zxu0A"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681026748359	Marionette	INFO	Marionette enabled
+1681026748417	Marionette	INFO	Listening on port 54739
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-04-09 15:52:28.472 plugin-container[21406:563907] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:52:28.472 plugin-container[21406:563907] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 54739
+2023-04-09 15:52:28.558 plugin-container[21406:563907] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:52:28.558 plugin-container[21406:563907] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:52:28.558 plugin-container[21406:563916] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:52:28.558 plugin-container[21406:563916] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:54736
+1681026748811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofile1Zxu0A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54736/devtools/browser/5b8035d0-1ca5-43cb-9838-1b97b756611b
+2023-04-09 07:52:29.914 plugin-container[21415:564083] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:52:29.915 plugin-container[21415:564083] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:52:29.919 plugin-container[21415:564083] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:52:29.919 plugin-container[21415:564083] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:52:29.919 plugin-container[21415:564086] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:52:29.919 plugin-container[21415:564086] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1681026847492	geckodriver	INFO	Listening on 127.0.0.1:54826
+1681026847510	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54827" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileuV44QM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681026847899	Marionette	INFO	Marionette enabled
+1681026848005	Marionette	INFO	Listening on port 54831
+2023-04-09 15:54:08.007 plugin-container[21482:565340] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:54:08.007 plugin-container[21482:565340] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:54:08.011 plugin-container[21482:565340] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:54:08.011 plugin-container[21482:565340] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:54:08.012 plugin-container[21482:565344] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:54:08.012 plugin-container[21482:565344] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 54831
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:54827
+1681026848285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileuV44QM/search.json.mozlz4", (void 0)))
+2023-04-09 07:54:09.380 plugin-container[21494:565533] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:54:09.381 plugin-container[21494:565533] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:54:09.384 plugin-container[21494:565533] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:54:09.384 plugin-container[21494:565533] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:54:09.384 plugin-container[21494:565532] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:54:09.384 plugin-container[21494:565532] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:54827/devtools/browser/49daa7dd-28f3-4f09-8844-72dad8efb325
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681026852390	Marionette	INFO	Stopped listening on port 54831
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1681027057063	geckodriver	INFO	Listening on 127.0.0.1:55228
+1681027057138	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55229" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileEBglkU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681027057484	Marionette	INFO	Marionette enabled
+1681027057582	Marionette	INFO	Listening on port 55232
+2023-04-09 15:57:37.594 plugin-container[21613:568007] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:57:37.594 plugin-container[21613:568007] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:57:37.598 plugin-container[21613:568007] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:57:37.598 plugin-container[21613:568007] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 15:57:37.599 plugin-container[21613:568011] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 15:57:37.599 plugin-container[21613:568011] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55232
+WebDriver BiDi listening on ws://127.0.0.1:55229
+1681027057872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileEBglkU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55229/devtools/browser/2bbff321-813c-45d3-beaa-6174c02150fa
+2023-04-09 07:57:38.967 plugin-container[21618:568160] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:57:38.967 plugin-container[21618:568160] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:57:38.970 plugin-container[21618:568160] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:57:38.970 plugin-container[21618:568160] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 07:57:38.971 plugin-container[21618:568159] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 07:57:38.971 plugin-container[21618:568159] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1681027421466	geckodriver	INFO	Listening on 127.0.0.1:55618
+1681027421477	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55619" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileKd4NCY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681027421899	Marionette	INFO	Marionette enabled
+1681027421957	Marionette	INFO	Listening on port 55622
+Read port: 55622
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-04-09 16:03:42.049 plugin-container[21896:572550] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:03:42.050 plugin-container[21896:572550] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 16:03:42.096 plugin-container[21896:572550] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:03:42.096 plugin-container[21896:572550] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 16:03:42.096 plugin-container[21896:572555] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:03:42.096 plugin-container[21896:572555] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:55619
+1681027422462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileKd4NCY/search.json.mozlz4", (void 0)))
+2023-04-09 08:03:43.552 plugin-container[21901:572740] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:03:43.552 plugin-container[21901:572740] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 08:03:43.556 plugin-container[21901:572740] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:03:43.556 plugin-container[21901:572740] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 08:03:43.556 plugin-container[21901:572744] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:03:43.556 plugin-container[21901:572744] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:55619/devtools/browser/94f706c1-b5cb-4a4f-b973-41de7ce04233
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1681027506231	geckodriver	INFO	Listening on 127.0.0.1:55708
+1681027506241	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55709" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofile05w5uO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681027506603	Marionette	INFO	Marionette enabled
+1681027506697	Marionette	INFO	Listening on port 55712
+2023-04-09 16:05:06.715 plugin-container[21986:574006] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:05:06.715 plugin-container[21986:574006] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 16:05:06.719 plugin-container[21986:574006] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:05:06.719 plugin-container[21986:574006] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 16:05:06.719 plugin-container[21986:574004] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:05:06.719 plugin-container[21986:574004] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55712
+WebDriver BiDi listening on ws://127.0.0.1:55709
+1681027507040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofile05w5uO/search.json.mozlz4", (void 0)))
+2023-04-09 08:05:08.263 plugin-container[21997:574204] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:05:08.264 plugin-container[21997:574204] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 08:05:08.268 plugin-container[21997:574204] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:05:08.268 plugin-container[21997:574204] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 08:05:08.269 plugin-container[21997:574203] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:05:08.269 plugin-container[21997:574203] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:55709/devtools/browser/54fa72a2-3227-434d-aa7c-db09daab61ce
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1681028095691	geckodriver	INFO	Listening on 127.0.0.1:56451
+1681028095701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56452" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileMzawnb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681028096074	Marionette	INFO	Marionette enabled
+1681028096178	Marionette	INFO	Listening on port 56455
+2023-04-09 16:14:56.182 plugin-container[22341:581232] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:14:56.182 plugin-container[22341:581232] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 16:14:56.187 plugin-container[22341:581232] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:14:56.187 plugin-container[22341:581232] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 16:14:56.187 plugin-container[22341:581239] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:14:56.187 plugin-container[22341:581239] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56455
+WebDriver BiDi listening on ws://127.0.0.1:56452
+1681028096452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileMzawnb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56452/devtools/browser/c0fe9453-30ef-4b49-a019-82e9f1e9208b
+2023-04-09 08:14:57.545 plugin-container[22351:581402] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:14:57.545 plugin-container[22351:581402] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 08:14:57.549 plugin-container[22351:581402] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:14:57.549 plugin-container[22351:581402] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 08:14:57.550 plugin-container[22351:581401] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:14:57.550 plugin-container[22351:581401] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681028111639	Marionette	INFO	Stopped listening on port 56455
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1681028784492	geckodriver	INFO	Listening on 127.0.0.1:57663
+1681028784501	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "57664" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileB6oB49"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681028784861	Marionette	INFO	Marionette enabled
+1681028784977	Marionette	INFO	Listening on port 57667
+2023-04-09 16:26:25.007 plugin-container[22818:589334] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:26:25.008 plugin-container[22818:589334] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 16:26:25.011 plugin-container[22818:589334] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:26:25.011 plugin-container[22818:589334] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 16:26:25.011 plugin-container[22818:589339] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:26:25.012 plugin-container[22818:589339] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 57667
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57664
+1681028785258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofileB6oB49/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57664/devtools/browser/04e9c54b-e8ed-48a5-a58d-414155ba77d4
+2023-04-09 08:26:26.338 plugin-container[22823:589487] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:26:26.338 plugin-container[22823:589487] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 08:26:26.342 plugin-container[22823:589487] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:26:26.342 plugin-container[22823:589487] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 08:26:26.342 plugin-container[22823:589490] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:26:26.342 plugin-container[22823:589490] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681028940372	Marionette	INFO	Stopped listening on port 57667
+1681029045064	geckodriver	INFO	Listening on 127.0.0.1:57783
+1681029045075	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "57784" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofilehvk1Il"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681029045502	Marionette	INFO	Marionette enabled
+2023-04-09 16:30:45.612 plugin-container[23037:592807] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:30:45.612 plugin-container[23037:592807] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 16:30:45.616 plugin-container[23037:592807] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:30:45.616 plugin-container[23037:592807] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 16:30:45.617 plugin-container[23037:592812] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 16:30:45.617 plugin-container[23037:592812] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1681029045633	Marionette	INFO	Listening on port 57787
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 57787
+WebDriver BiDi listening on ws://127.0.0.1:57784
+1681029045916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xw/shy4cwls7zq7ynw_db1dzfk80000gn/T/rust_mozprofilehvk1Il/search.json.mozlz4", (void 0)))
+2023-04-09 08:30:46.978 plugin-container[23042:592957] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:30:46.979 plugin-container[23042:592957] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 08:30:46.982 plugin-container[23042:592957] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:30:46.982 plugin-container[23042:592957] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-09 08:30:46.982 plugin-container[23042:592959] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-09 08:30:46.982 plugin-container[23042:592959] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:57784/devtools/browser/c08c127c-f16a-48ea-a8fd-f86280840937
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ir534/yx/l/zh_TW/ghBOJdWfX4o.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681029101798	Marionette	INFO	Stopped listening on port 57787
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
